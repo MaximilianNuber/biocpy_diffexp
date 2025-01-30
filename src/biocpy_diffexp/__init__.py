@@ -19,6 +19,6 @@ from .skeleton import filter_by_expr
 from .skeleton import calc_norm_factors
 
 from .skeleton import fit_edger
-from .skeleton import get_contrast_result
+from .skeleton import test_edger
 
 from .skeleton import test_contrast
